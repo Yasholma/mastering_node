@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "@types/form-data": "^2.5.0",
-    "form-data": "^4.0.0"
+    "@types/multiparty": "^0.0.32",
+    "form-data": "^4.0.0",
+    "multiparty": "^4.2.2"
   }
 }
